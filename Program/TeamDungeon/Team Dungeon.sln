@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team Dungeon", "Team Dungeon.csproj", "{3FBDFFAD-1774-43E7-9A0E-981FF1988153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ExportDebug|Any CPU = ExportDebug|Any CPU
+		ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FBDFFAD-1774-43E7-9A0E-981FF1988153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBDFFAD-1774-43E7-9A0E-981FF1988153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBDFFAD-1774-43E7-9A0E-981FF1988153}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{3FBDFFAD-1774-43E7-9A0E-981FF1988153}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{3FBDFFAD-1774-43E7-9A0E-981FF1988153}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{3FBDFFAD-1774-43E7-9A0E-981FF1988153}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D84FAC1F-535F-4D02-974A-10F8E6B165B2}
+	EndGlobalSection
+EndGlobal
